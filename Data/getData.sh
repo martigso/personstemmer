@@ -2,4 +2,4 @@
 wget http://folk.uio.no/martigso/personstemmer/topicDist.rda -P ./Data/
 
 ## Candidate data (work in progress)
-wget http://folk.uio.no/martigso/personstemmer/kandidatdata2.rda -P ./Data/
+wget http://folk.uio.no/martigso/personstemmer/kandidatdata2.rdata -P ./Data/
